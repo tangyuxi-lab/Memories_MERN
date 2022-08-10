@@ -32,16 +32,13 @@
 - Validation
 
 ## Tech Stack
-
-- HTML5
-- CSS3
-- Javascript and ES+6
-- Material-UI
 - ReactJs
 - Redux, Redux-Thunk
 - NodeJs
 - ExpressJs
 - MongoDB Atlas
+- Material-UI
+- Javascript and ES+6
 
 ## Packages
 
